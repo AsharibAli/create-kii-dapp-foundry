@@ -7,7 +7,7 @@
 <div align="center">
     <img src="https://img.shields.io/badge/platform-KiiChain-purple.svg?style=flat-square" alt="Platform">
     <img src="https://img.shields.io/github/license/asharibali/create-kii-dapp-foundry?color=purple&style=flat-square " alt="License">
-    <img src="https://img.shields.io/npm/v/create-kii-dapp?color=purple" alt="NPM Version">
+    <img src="https://img.shields.io/npm/v/create-kii-dapp?color=purple" alt="npm Version">
     <img src="https://img.shields.io/npm/dm/create-kii-dapp?color=purple" alt="Downloads">
 </div><br>
 
